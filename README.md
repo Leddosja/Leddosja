@@ -2,6 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=17&height=180&section=header&text=Hey,%20I'm%20Edis!&fontSize=48&animation=fadeIn&fontAlignY=36&desc=UNIPD%20Student%20%7C%20Mobile%20Dev%20%7C%20Future%20Full%20Stack&descAlignY=62&descAlign=50" width="100%" alt="Edis Hodja header"/>
 </div>
 
+<div align="center">
+  <p>
+    <a href="https://github.com/Leddosja/Leddosja/blob/main/docs/Hodja_Edis.pdf/" target="_blank"><img src="https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV"/></a>
+    <a href="www.linkedin.com/in/edis-hodja-991496304/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:edishodja@icloud.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://t.me/leddoka" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Dev.to"/></a>
+  </p>
+</div>
+
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
   I am a Computer Science student at the University of Padua with a strong interest in software development and modern technologies. Through my academic journey and hands-on internship experience, I have developed practical skills in mobile application development, API integration, and data management. <br>
