@@ -27,10 +27,18 @@
           <img src="./badges/ccna-introduction-to-networks.png" alt="CCNA Introduction to Networks" width="120"/>
         </a>
       </td>
+      <td align="center">
+        <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b/public_url">
+          <img src="./badges/aws-educate-machine-learning-foundations.png" alt="CCNA Introduction to Networks" width="120"/>
+        </a>
+      </td>
     </tr>
     <tr>
       <td align="center">
-        <em>Fundamentals of networking, IP addressing, protocols, and network configuration.</em>
+        <em>Networking fundamentals, IP addressing, protocols, network configuration</em>
+      </td>
+      <td align="center">
+        <em>Machine learning fundamentals, data analysis, model training, AI concepts, AWS cloud tools</em>
       </td>
     </tr>
   </table>
