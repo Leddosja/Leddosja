@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=17&height=180&section=header&text=Hey,%20I'm%20Edis!&fontSize=48&animation=fadeIn&fontAlignY=36&desc=UNIPD%20Student%20%7C%20Mobile%20Dev%20%7C%20Future%20Full%20Stack&descAlignY=62&descAlign=50" width="100%" alt="Edis Hodja header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=17&height=180&section=header&text=Hey,%20I'm%20Edis!&fontSize=48&animation=fadeIn&fontAlignY=36&desc=UniPD%20Student%20%7C%20Mobile%20Dev%20%7C%20Future%20Full%20Stack&descAlignY=62&descAlign=50" width="100%" alt="Edis Hodja header"/>
 </div>
 
 <div align="center">
